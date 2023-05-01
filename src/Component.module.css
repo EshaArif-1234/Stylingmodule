@@ -1,0 +1,7 @@
+.btn {
+  background-color: peru;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 5px;
+  cursor: pointer;
+}
